@@ -1,0 +1,6 @@
+﻿.idea
+.vs
+venv
+Cropper/ConsoleApp4/bin
+Cropper/ConsoleApp4/obj
+*.DotSettings.user
